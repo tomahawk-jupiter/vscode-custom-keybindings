@@ -2,7 +2,7 @@
 
 I got fed up with taking my fingers off the home row to press arrow keys for cursor navigation. Thats what my keybindings are designed to avoid.
 
-I also include some of the default keybindings that are useful. My ones mostly don't overwrite any of these, I think its just the delete line that is overwritten.
+I also include some of the default keybindings (below) that are useful. My ones mostly don't overwrite any of these, I think its just the delete line that is overwritten.
 
 ## Where to put the file?
 
