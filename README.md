@@ -6,11 +6,7 @@ I also include some of the default keybindings (below) that are useful. My ones 
 
 ## Where to put the file?
 
-It goes here: `~/.config/Code/User/keybindings.json`. I think this file is empty if you haven't added any of your own keybindings, but you might want to check this.
-
-```sh
-cp ./keybindings.json ~/.config/Code/User/keybindings.json
-```
+It goes here: `~/.config/Code/User/keybindings.json`. I think this file is empty if you haven't added any of your own keybindings, but you might want to check this before replacing it.
 
 ## My VSCode Custom
 
