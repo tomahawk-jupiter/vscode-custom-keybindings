@@ -1,0 +1,108 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+shift+j",
+    "command": "cursorWordLeft",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+l",
+    "command": "cursorWordRight",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+j",
+    "command": "cursorWordLeftSelect",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+l",
+    "command": "cursorWordRightSelect",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+h",
+    "command": "cursorLeftSelect",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+;",
+    "command": "cursorRight",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+k",
+    "command": "cursorDown",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+,",
+    "command": "cursorLineStartSelect",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+.",
+    "command": "cursorEnd",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+.",
+    "command": "cursorEndSelect",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+,",
+    "command": "cursorLineStart",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+i",
+    "command": "cursorUp",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+h",
+    "command": "cursorLeft",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+;",
+    "command": "cursorRightSelect",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+i",
+    "command": "editor.action.moveLinesUpAction",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+k",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+alt+k",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+o",
+    "command": "editor.action.deleteLines",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+=",
+    "command": "scrollPageDown",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+-",
+    "command": "scrollPageUp",
+    "when": "editorTextFocus"
+  },{
+    "key": "ctrl+shift+k",
+    "command": "list.focusDown",
+    "when": "sideBarFocus"
+  },{
+    "key": "ctrl+shift+i",
+    "command": "list.focusUp",
+    "when": "sideBarFocus"
+  },{
+    "key": "ctrl+shift+j",
+    "command": "explorer.newFolder",
+    "when": "sideBarFocus"
+  },{
+    "key": "ctrl+shift+l",
+    "command": "explorer.newFile",
+    "when": "sideBarFocus"
+  },{
+    "key": "ctrl+shift+;",
+    "command": "renameFile",
+    "when": "sideBarFocus"
+  },{
+    "key": "ctrl+shift+o",
+    "command": "deleteFile",
+    "when": "sideBarFocus"
+  }
+]
